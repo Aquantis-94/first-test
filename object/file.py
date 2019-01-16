@@ -1,1 +1,2 @@
-print ("I'm a turnip")
+x = "I'm a turnip"
+print (x)
